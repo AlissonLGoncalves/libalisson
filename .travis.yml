@@ -2,6 +2,7 @@ language:
   python
 python:
   3.10.4
+  2
 install:
   pip install -q -r requirements-dev.txt
 script:
