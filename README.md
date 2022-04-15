@@ -13,7 +13,7 @@ Para instalar:
 '''console
 python3 -m venv .venv
 source .venv\Scripts\activate
-pip instal -r requirements-dev.txt
+pip install -r requirements-dev.txt
 '''
 
 Para conferir o código
