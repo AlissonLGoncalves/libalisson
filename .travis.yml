@@ -5,7 +5,7 @@
   ],
   "dist": "xenial",
   "python": [
-    "3.10.4"
+    "3.7"
   ],
   "install": [
     "pip install -q -r requirements-dev.txt"
